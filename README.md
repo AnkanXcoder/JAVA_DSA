@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------
 # JAVA_DSA 💻📚
 
-Welcome to my **Java & DSA repository**!  
+Welcome to my **JAVA_DSA repository**!  
 This repo contains all my Java programs, Data Structures, and Algorithms practice projects.  
 Organized for easy access, learning, and reference in the future.  
 
